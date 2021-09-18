@@ -8,12 +8,17 @@
 }
 
 .SearchResults p {
-    margin-bottom: 50px;
     font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
 }
 
 .SearchResults h3 {
     text-align: center;
     font-size: 18px;
     margin-bottom: 6px;
+}
+
+.tracks {
+    margin-bottom: 50px;
 }
