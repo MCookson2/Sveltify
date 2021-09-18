@@ -1,0 +1,27 @@
+.SearchBar {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+button {
+    margin-top: 40px;
+    bottom: 4px;
+    padding: 13px;
+    background: #ddd;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+
+input {
+    margin-top: 40px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+
